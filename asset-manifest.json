@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://arunkathir.github.io/PortfolioArun/static/css/main.c6d66926.css",
-    "main.js": "https://arunkathir.github.io/PortfolioArun/static/js/main.312f8497.js",
-    "static/js/787.512dd3f2.chunk.js": "https://arunkathir.github.io/PortfolioArun/static/js/787.512dd3f2.chunk.js",
-    "index.html": "https://arunkathir.github.io/PortfolioArun/index.html",
-    "main.c6d66926.css.map": "https://arunkathir.github.io/PortfolioArun/static/css/main.c6d66926.css.map",
-    "main.312f8497.js.map": "https://arunkathir.github.io/PortfolioArun/static/js/main.312f8497.js.map",
-    "787.512dd3f2.chunk.js.map": "https://arunkathir.github.io/PortfolioArun/static/js/787.512dd3f2.chunk.js.map"
+    "main.css": "https://ArunKathir.github.io/PortfolioArun/static/css/main.c6d66926.css",
+    "main.js": "https://ArunKathir.github.io/PortfolioArun/static/js/main.504005d4.js",
+    "static/js/787.512dd3f2.chunk.js": "https://ArunKathir.github.io/PortfolioArun/static/js/787.512dd3f2.chunk.js",
+    "index.html": "https://ArunKathir.github.io/PortfolioArun/index.html",
+    "main.c6d66926.css.map": "https://ArunKathir.github.io/PortfolioArun/static/css/main.c6d66926.css.map",
+    "main.504005d4.js.map": "https://ArunKathir.github.io/PortfolioArun/static/js/main.504005d4.js.map",
+    "787.512dd3f2.chunk.js.map": "https://ArunKathir.github.io/PortfolioArun/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6d66926.css",
-    "static/js/main.312f8497.js"
+    "static/js/main.504005d4.js"
   ]
 }
