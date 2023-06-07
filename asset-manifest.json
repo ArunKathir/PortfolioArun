@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://ArunKathir.github.io/PortfolioArun/static/css/main.c6d66926.css",
-    "main.js": "https://ArunKathir.github.io/PortfolioArun/static/js/main.2f16c374.js",
+    "main.css": "https://ArunKathir.github.io/PortfolioArun/static/css/main.e1f96718.css",
+    "main.js": "https://ArunKathir.github.io/PortfolioArun/static/js/main.a8970d4b.js",
     "static/js/787.512dd3f2.chunk.js": "https://ArunKathir.github.io/PortfolioArun/static/js/787.512dd3f2.chunk.js",
     "index.html": "https://ArunKathir.github.io/PortfolioArun/index.html",
-    "main.c6d66926.css.map": "https://ArunKathir.github.io/PortfolioArun/static/css/main.c6d66926.css.map",
-    "main.2f16c374.js.map": "https://ArunKathir.github.io/PortfolioArun/static/js/main.2f16c374.js.map",
+    "main.e1f96718.css.map": "https://ArunKathir.github.io/PortfolioArun/static/css/main.e1f96718.css.map",
+    "main.a8970d4b.js.map": "https://ArunKathir.github.io/PortfolioArun/static/js/main.a8970d4b.js.map",
     "787.512dd3f2.chunk.js.map": "https://ArunKathir.github.io/PortfolioArun/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6d66926.css",
-    "static/js/main.2f16c374.js"
+    "static/css/main.e1f96718.css",
+    "static/js/main.a8970d4b.js"
   ]
 }
